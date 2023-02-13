@@ -1,0 +1,22 @@
+{
+  "name": "my-pw-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsgopinath/my-pw-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsgopinath/my-pw-sample/issues"
+  },
+  "homepage": "https://github.com/vsgopinath/my-pw-sample#readme",
+  "devDependencies": {
+    "playwright":"^1.30.0",
+    "@playwright/test": "^1.30.0"
+  }
+}
